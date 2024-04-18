@@ -1,0 +1,52 @@
+# Compiled code
+*.class
+*.o
+*.pyc
+*.exe
+
+# Dependency directories
+node_modules/
+vendor/
+
+# Temporary files
+*~
+.DS_Store
+.Thumbs.db
+.vscode/
+
+# Logs and cache files
+*.log
+*.cache
+
+# Environment files
+.env
+.env.*
+
+# User-specific files
+.idea/
+*.iml
+.sass-cache/
+.cache/
+
+# Build output
+build/
+dist/
+out/
+target/
+
+# Database files
+*.sqlite
+*.db
+*.sql
+
+# Documentation files
+docs/build/
+doc/
+
+# Configuration files
+config/local.json
+config/database.yml
+
+# Ignore all files in a directory
+# Use with caution as it will ignore all files in the specified directory and its subdirectories
+# directory_to_ignore/
